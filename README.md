@@ -1,0 +1,3 @@
+cs231n课程的作业代码
+目前assignment1的小作业已经全部完成
+接下来近期将会更新assignment2
